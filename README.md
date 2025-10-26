@@ -1,16 +1,3 @@
----
-title: Context-Aware Text Paraphraser
-emoji: 📚
-colorFrom: blue
-colorTo: purple
-sdk: gradio
-sdk_version: 5.48.0
-app_file: app.py
-pinned: false
-license: mit
-short_description: AI text paraphraser using T5 transformer model for NLP
----
-
 # 🔄 AI Text Paraphraser & Rewriter
 
 A sophisticated context-aware text paraphrasing and rewriting tool powered by the **Humarin/chatgpt_paraphraser_on_T5_base** model from HuggingFace Transformers. This application provides an intuitive web interface for transforming text with AI-powered paraphrasing capabilities.
@@ -56,7 +43,7 @@ A sophisticated context-aware text paraphrasing and rewriting tool powered by th
 1. **Clone or download the project files**
    ```bash
    # If using git
-   git clone <repository-url>
+   git clone https://github.com/shreyas114/context-aware-text-paraphraser.git
    cd NLP_Project
    
    # Or simply ensure you have the project files in your directory
