@@ -1,3 +1,17 @@
+<div align="center">
+
+# 🔄 Context-Aware Text Paraphrasing Tool
+
+### AI-Powered Text Transformation using T5 Transformer
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Hugging_Face-yellow)](https://huggingface.co/spaces/shreyas114/context-aware-text-paraphraser)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+</div>
+
+---
+
 # 🔄 AI Text Paraphraser & Rewriter
 
 A sophisticated context-aware text paraphrasing and rewriting tool powered by the **Humarin/chatgpt_paraphraser_on_T5_base** model from HuggingFace Transformers. This application provides an intuitive web interface for transforming text with AI-powered paraphrasing capabilities.
